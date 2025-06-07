@@ -102,4 +102,3 @@ chess-using-ml/
 **Enjoy playing chess against machine learning!** ♟️🤖
 ```
 
-This README provides a comprehensive overview of your chess ML project, including setup instructions, features, and technical details. You can customize the GitHub username, app URL, and any other specific details for your project!
