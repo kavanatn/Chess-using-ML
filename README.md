@@ -145,6 +145,3 @@ chess-using-ml/
 - `play_nn()`: Uses ML model to select best move for given position  
 - `make_ai_move()`: Handles automatic ML move execution  
 
----
-
-Enjoy playing chess using machine learning! ♟️🧠
