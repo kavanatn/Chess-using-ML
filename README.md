@@ -53,8 +53,8 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chess-using-ml.git
-cd chess-using-ml
+git clone https://github.com/kavanatn/Chess-using-ML.git
+cd Chess-using-ML
 ```
 
 Ensure you have the trained model:
